@@ -10,7 +10,7 @@ My GitHub Page is http://github.com/RaymondPinon
 
 Lab-06
 
-This lab is my favorite out of all of them because this was about the point where coding started to become easy for me and more enjoyable. Also we started learning about command line arguments and containers that week as well. I was able to put my knowledge from what I had learned and apply it to that week’s lab. The output from the lab was also fun in getting to put in a sandwich order and the computer completing it for you.
+This lab is my favorite out of all of the labs completed throughout the semester because this was about the point where coding started to become easy for me and more enjoyable. Also we started learning about command line arguments and containers that week as well. I was able to put my knowledge from what I had learned and apply it to that week’s lab. The output from the lab was also fun in getting to put in a sandwich order and the computer completing it for you.
 
 Lab-02
 
